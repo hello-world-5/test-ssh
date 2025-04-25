@@ -4,3 +4,4 @@ testing ssh3
 use git remote add monkey url  
 Switch from ssh to https for push  
 Switch from https to ssh for push  
+Commit using SSH in fresh terminal  
